@@ -1,0 +1,49 @@
+
+/*tag element selector */
+
+/*h1{
+    background-color: pink;
+}
+
+ul{
+    background-color: aquamarine;
+}
+h2{
+    background-color: blue;
+}*/
+
+/* id base selection  */
+
+/*#first{
+    background-color: blue;
+}
+
+#second{
+    background-color: burlywood;
+}*/
+
+
+/*.third{
+    background-color: green;
+}
+
+.fourth{
+    background-color: green;
+}*/
+
+
+/*h1{
+    background-color: rgba(159, 90, 7,0.5);
+}
+
+h2{
+    background-color: rgb(137, 5, 5);
+}*/
+
+
+h2{
+    font-size: 2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+
