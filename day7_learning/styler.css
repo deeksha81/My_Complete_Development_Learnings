@@ -1,0 +1,46 @@
+/*span{
+    color: blue;
+}*/
+
+/* *{
+     margin: 0px;
+     padding: 0px;
+} */
+
+h1{
+    background-color: aqua;
+    height:300px;
+    width: 200px;
+    display: inline-block;
+    border: 10px solid orange;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+span{
+    background-color: pink;
+    display: block;
+}
+
+h2{
+    background-color: brown;
+    /*height and width not applicable;*/
+    padding: 20px;
+    width: 300px;
+
+    margin-bottom: 150px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 30px;
+    display:inline;
+    height:200px;
+    width:300px;
+    box-sizing: content-box;
+
+}
+
+
+
+
+
