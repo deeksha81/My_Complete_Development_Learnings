@@ -1,30 +1,51 @@
-.container{
-    background-color: antiquewhite;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+*{
+    padding : 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
+
+
+
+
+body{
+    background-color: aliceblue;
+    display : flex;
+    justify-content : center;
+    align-items: center;
+    height: 100vh;
+}
 
 
 
 .box{
-    height: 100px;
-    width: 100px;
-    margin:5px;
+    width: 400px;
+    /*height: 400px;*/
+    background-color: white;
+    padding: 60px;
+    border-radius: 10px;
+}
+
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color:rgb(121, 121, 251)
 
 }
 
-.first{
-    background-color: orange;
+label{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 5px;
 }
 
-.second{
-    background-color: green;
-}
-.third{
-    background-color: red;
-}
-.fourth{
-    background-color: chartreuse ;
+input{
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
 }
